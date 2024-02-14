@@ -3,7 +3,7 @@ includes:
 
 variables:
   - name: TARGET_REPO
-    default: oci://ghcr.io/defenseunicorns/packages/uds
+    default: oci://ghcr.io/zachariahmiller/packages/uds
 
   - name: VERSION
     description: The version of the package to build
